@@ -4,3 +4,4 @@ Requirements:
  - requests
  - sqlite3
  - matplotlib/pyplot
+ - PyQt5
